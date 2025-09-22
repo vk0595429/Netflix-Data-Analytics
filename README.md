@@ -55,7 +55,7 @@ Follow these steps to run the Netflix Data Analytics project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/netflix-data-analytics.git
+git clone https://github.com/vk0595429/netflix-data-analytics.git
 cd netflix-data-analytics
 ```
 
